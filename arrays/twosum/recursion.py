@@ -40,10 +40,6 @@ def listIndex(nums, start, target):
     res.extend(listIndex(nums=nums, start=start+1, target=target ))
 
     return res
-        
-
-resp = twoSum([2,7,11,15], 9)
-print(resp)
 
 
             

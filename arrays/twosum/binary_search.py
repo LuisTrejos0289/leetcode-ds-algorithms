@@ -47,10 +47,6 @@ def listIndex(nums, start, length, target):
     return indexes
 
 
-resp = twoSum([3,2,3], 6)
-print(resp)
-
-
             
 
 

@@ -37,10 +37,6 @@ def twoSum(nums, target):
 
     return indexes
 
-resp = twoSum([2,7,11,15], 9)
-print(resp)
-
-
             
 
 
